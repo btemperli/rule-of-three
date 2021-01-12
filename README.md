@@ -2,4 +2,4 @@
 
 * HTML, CSS + JS
 * simple
-* live: [dreisatz](http://dreisatz.temper.li)
+* live: [codepen](https://codepen.io/Thivieira/pen/OJLMBvj)
